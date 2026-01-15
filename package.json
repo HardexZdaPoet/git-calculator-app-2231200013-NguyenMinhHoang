@@ -4,9 +4,6 @@
   "description": "Electron calculator app (organized professional structure)",
   "main": "src/main/main.js",
   "type": "commonjs",
-  "directories": {
-    "output": "dist"
-  },
   "scripts": {
     "start": "electron .",
     "dev": "electron .",
